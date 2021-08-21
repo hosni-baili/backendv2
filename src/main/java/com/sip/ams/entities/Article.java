@@ -13,7 +13,7 @@ import org.hibernate.annotations.OnDelete;
 import org.hibernate.annotations.OnDeleteAction;
 
 @Entity
-
+// hello me
 public class Article {
 	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
